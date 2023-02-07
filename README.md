@@ -33,7 +33,7 @@
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   🎥 The full movie file showing functionality of the application can be found below:
-  [Walkthrough Video](https://)
+  [Walkthrough Video](https://watch.screencastify.com/v/JaUZiIoZChR67WRzxaNB)
 
 ## User Story
   
